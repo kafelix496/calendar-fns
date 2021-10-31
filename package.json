@@ -1,6 +1,6 @@
 {
   "name": "@share-code/calendar-fns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "functions for calendar",
   "main": "dist/index.cjs.js",
   "types": "types/index.d.ts",
